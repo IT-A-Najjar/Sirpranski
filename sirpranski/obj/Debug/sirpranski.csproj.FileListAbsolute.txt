@@ -1,0 +1,8 @@
+C:\Users\ARENA\Desktop\sirpranski\sirpranski\sirpranski\bin\Debug\sirpranski.exe
+C:\Users\ARENA\Desktop\sirpranski\sirpranski\sirpranski\bin\Debug\sirpranski.pdb
+C:\Users\ARENA\Desktop\sirpranski\sirpranski\sirpranski\obj\Debug\sirpranski.csprojResolveAssemblyReference.cache
+C:\Users\ARENA\Desktop\sirpranski\sirpranski\sirpranski\obj\Debug\sirpranski.Form1.resources
+C:\Users\ARENA\Desktop\sirpranski\sirpranski\sirpranski\obj\Debug\sirpranski.Properties.Resources.resources
+C:\Users\ARENA\Desktop\sirpranski\sirpranski\sirpranski\obj\Debug\sirpranski.csproj.GenerateResource.Cache
+C:\Users\ARENA\Desktop\sirpranski\sirpranski\sirpranski\obj\Debug\sirpranski.exe
+C:\Users\ARENA\Desktop\sirpranski\sirpranski\sirpranski\obj\Debug\sirpranski.pdb
